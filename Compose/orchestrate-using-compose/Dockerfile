@@ -5,8 +5,8 @@
 # Base image is node.js
 FROM node:latest
 
-# Author: Dr. Peter
-MAINTAINER Dr. Peter <peterindia@gmail.com>
+# Author: Nana
+MAINTAINER Nana <nraythz@gmail.com>
 
 # Install redis driver for node.js
 RUN npm install redis
